@@ -1,6 +1,7 @@
-👋 Hello! I'm Arthur
+ Hello! I'm Arthur
 <p align="center"> <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="180px" alt="Coding GIF"> </p> <p align="center"> <strong>🐍 Python Developer in Training</strong> </p>
-👨‍💻 About Me
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; About Me
 
 Hello! My name is Arthur, and I am currently learning Python and developing my programming skills.
 
@@ -44,5 +45,5 @@ Next Steps
 
 🤝 Connect With Me
 
-<p align="center"> <a href="SEU_GITHUB"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> &nbsp; <a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p> <p align="center"> <strong>💼 Open to opportunities in the Technology field</strong> </p>
+<p align="center"> <a href="SEU_GITHUB"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> &nbsp; <a href="mailto:arthur.drigs@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="arthur.drigs@gmail.com"/> </a> </p> <p align="center"> <strong>💼 Open to opportunities in the Technology field</strong> </p>
 <p align="center"> ⭐ Thanks for visiting my profile! </p>
