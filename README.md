@@ -1,58 +1,48 @@
-👋 Olá! Eu sou o Arthur
-<p align="center"> <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="180px" alt="Coding GIF"> </p> <p align="center"> <strong>
- 🐍 Desenvolvedor Python em formação 
- 
-👨‍💻 Sobre mim
+👋 Hello! I'm Arthur
+<p align="center"> <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="180px" alt="Coding GIF"> </p> <p align="center"> <strong>🐍 Python Developer in Training</strong> </p>
+👨‍💻 About Me
 
-Olá! Meu nome é Arthur e atualmente estou estudando Python e desenvolvendo minhas habilidades na área de programação.
+Hello! My name is Arthur, and I am currently learning Python and developing my programming skills.
 
-Estou em busca de uma oportunidade profissional na área de Tecnologia, onde possa colocar meus conhecimentos em prática, aprender com novos desafios e crescer profissionalmente.
+I am looking for a professional opportunity in the Technology field, where I can put my knowledge into practice, learn from new challenges, and grow professionally.
 
-🐍 Estudando e praticando Python
+🐍 Learning and practicing Python
 
-💻 Buscando oportunidades na área de Tecnologia
+💻 Looking for opportunities in the Technology field
 
-📚 Sempre aprendendo algo novo
+📚 Always learning something new
 
-🚀 Desenvolvendo projetos para colocar meus conhecimentos em prática
+🚀 Developing projects to put my knowledge into practice
 
-🧠 Acredito que a melhor forma de aprender é praticando
+🧠 I believe the best way to learn is by practicing
 
-😴 Curiosidade: estudo algo novo e depois durmo para deixar o cérebro fazer o trabalho pesado. 😂
+😴 Fun fact: I study something new and then sleep to let my brain do the hard work. 😂
 
-🛠️ Linguagens e Tecnologias
-
+🛠️ Languages & Technologies
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/> </p>
-
-Atualmente estudando:
-
+Currently Learning
 Python
-Lógica de programação
+Programming Logic
+Git & GitHub
+Project Development
 
-Git e GitHub
-
-Desenvolvimento de projetos
-
-📂 Projetos
-
-Aprendendo a usar o cursor criando um jogo simples: 
-
-
-
-Meu objetivo é evoluir constantemente como desenvolvedor, adquirir experiência profissional e contribuir para projetos reais na área de tecnologia.
-
-Próximos passos:
-
- Aprofundar meus conhecimentos em Python
- Desenvolver projetos mais completos
- Aprender novas tecnologias
- Construir um portfólio sólido
- Conseguir minha primeira oportunidade na área de Tecnologia
-center"> ⭐ Obrigado por visitar meu perfil! </p>
+📂 Projects
 
 
 
 
+🎯 Goals
 
+My goal is to constantly improve as a developer, gain professional experience, and contribute to real-world projects in the technology field.
 
+Next Steps
+📈 Deepen my Python knowledge
 
+💼 Build a solid portfolio
+
+🚀 Get my first opportunity in the Technology field
+
+🤝 Connect With Me
+
+<p align="center"> <a href="SEU_GITHUB"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> &nbsp; <a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p> <p align="center"> <strong>💼 Open to opportunities in the Technology field</strong> </p>
+<p align="center"> ⭐ Thanks for visiting my profile! </p>
