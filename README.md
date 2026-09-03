@@ -37,6 +37,7 @@ Project Development
 My goal is to constantly improve as a developer, gain professional experience, and contribute to real-world projects in the technology field.
 
 Next Steps
+
 📈 Deepen my Python knowledge
 
 💼 Build a solid portfolio
@@ -45,5 +46,5 @@ Next Steps
 
 🤝 Connect With Me
 
-<p align="center"> <a href="SEU_GITHUB"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> &nbsp; <a href="mailto:arthur.drigs@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="arthur.drigs@gmail.com"/> </a> </p> <p align="center"> <strong>💼 Open to opportunities in the Technology field</strong> </p>
+<p align="center"> <a href="arthur1drigs"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="arthur1drigs"/> </a> &nbsp; <a href="mailto:arthur.drigs@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="arthur.drigs@gmail.com"/> </a> </p> <p align="center"> <strong>💼 Open to opportunities in the Technology field</strong> </p>
 <p align="center"> ⭐ Thanks for visiting my profile! </p>
